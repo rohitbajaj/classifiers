@@ -1,5 +1,8 @@
 # classifiers
 Machine learning classifiers
+This model will predict the song's genre based on current activity of user.
+Currently the model can predict 'rock', 'jazz', 'classical' or 'pop' genre.
+This can be expanded easily by enriching the dataset.
 
 Running command- 
 python moodDetection.py
